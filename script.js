@@ -10,7 +10,7 @@ const newFreelancers = [
     { name: "David", price: 40, occupation: "designer" },
     { name: "Eve", price: 90, occupation: "consultant" },
     { name: "Dean", price: 100, occupation: "hunter" },
-    { name: "Zoe", price: 200, occupation: "striper" }
+    { name: "Zoe", price: 200, occupation: "psychiatrist" }
 ];
 
 // Track the index of the next freelancer to be added
